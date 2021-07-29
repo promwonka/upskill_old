@@ -1,0 +1,5 @@
+Create a folder named 'date_coris' and place the file date_sort.py in it.
+Create a folder named 'results' inside the newly created 'date_coris' folder
+install the 'requirements.txt' file
+To run the file enter 'python date_filter.py Date' in the terminal and press enter. 
+Note: To filter any other column other than 'Date', you can replace the 'Date' word from the above run command with any column of your choice in the dataset.
